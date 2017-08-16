@@ -49,6 +49,7 @@ To save your valuable time we want to direct your reading and would recommend th
 - Read the materials presented above.
 - Change the cheat sheets markup to a description list since this is the proper element to mark up such a list.
 - Add entries concerning lists and tables to your cheat sheet as you go along with the material to be read.
+- Add the cheat sheet to your assignment repository and make a pull request.
 
 We will do a quiz during one of the next lessons where you can prove that you read the given texts carefully.
 
