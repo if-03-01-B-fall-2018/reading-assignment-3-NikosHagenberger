@@ -23,6 +23,7 @@
    - a table row
    - a table header
    - a table header cell
+   - a table body
    - a table cell
    - a table footer
    - a table footer cell
