@@ -46,12 +46,17 @@ To save your valuable time we want to direct your reading and would recommend th
    - Rounded Borders
 
 ## Required Tasks
-- Read the materials presented above.
+1. Read the materials presented above.
 - Change the cheat sheets markup to a description list since this is the proper element to mark up such a list.
 - Add entries concerning lists and tables to your cheat sheet as you go along with the material to be read.
 - Add the cheat sheet to your assignment repository and make a pull request.
 
 We will do a quiz during one of the next lessons where you can prove that you read the given texts carefully.
+
+## Evaluation
+When you make a pull request your cheat sheet will be graded. Most common reasons to mark down a solution would be
+- One or more of the *Required Tasks* section are not satisfied
+- Submitted code is visually sloppy and hard to read
 
 ## Extra Credits
 Give brief answers to the questions given in the file [SampleQuestions.md](SampleQuestions.md). When you make a pull request you will get feedback on your proposed answers and some extra points on the first quiz.
